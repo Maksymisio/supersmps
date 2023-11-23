@@ -18806,10 +18806,10 @@
     (property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=10569&prodName=TLP785" (at 116.84 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 4f8c7dd9-f3d8-457c-9a1f-68968ffade50))
-    (pin "2" (uuid 091b6c82-e8a2-41c9-a880-f6bbce8d3b78))
-    (pin "3" (uuid 502ffcee-1820-4f8c-819b-4eeed2470692))
-    (pin "4" (uuid 62c370c5-38f7-40dc-8933-841ef024eb05))
+    (pin "1" (uuid 4610bdeb-2b6d-4c52-893d-2ad89c19c93b))
+    (pin "2" (uuid 69ed35f9-7ddd-4371-933d-a4fb7a9c42ac))
+    (pin "3" (uuid f97f2f25-cb3a-4c85-b2d1-5df6644674a3))
+    (pin "4" (uuid 8ad61ea7-a41d-4446-a059-6f851618e4fc))
     (instances
       (project "supersmymps v2"
         (path "/6b525430-400d-4a74-8497-4b147c45e32f"
@@ -19300,7 +19300,7 @@
     (property "Datasheet" "" (at 109.22 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0031d372-acd4-440f-9818-bd7b0a30660f))
+    (pin "1" (uuid 9e95751a-fc98-411f-8196-c62790ed5498))
     (instances
       (project "supersmymps v2"
         (path "/6b525430-400d-4a74-8497-4b147c45e32f"
